@@ -1,0 +1,42 @@
+h1 {
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 30px;
+   
+    margin: auto;
+
+
+}
+
+body
+{
+    background-color: #c9c9c9;
+}
+ul
+{
+    font-size: 20px;
+    color: orangered;
+}
+
+h2{
+    color: blue;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 30px;
+   
+}
+p
+{
+    font-size: 20px;
+    color: black;
+    padding: 20px;
+    margin: 8px 0px 8px 0px;
+    
+}
+img
+{
+    margin-left: 23%; border-radius: 10px; border: 2px solid black;
+}
